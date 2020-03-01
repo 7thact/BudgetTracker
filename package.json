@@ -1,5 +1,5 @@
 {
-    "name": "Budget-Tracker",
+    "name": "Budget Tracker",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Fancystacks/Budget-Tracker.git"
+      "url": "git+https://github.com/7thact/BudgetTracker.git"
     },
     "keywords": [],
-    "author": "",
+    "author": "Charles Cressey",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Fancystacks/Budget-Tracker/issues"
+      "url": "https://github.com/7thact/BudgetTracker"
     },
-    "homepage": "https://github.com/Fancystacks/Budget-Tracker#readme",
+    "homepage": "https://github.com/7thact/BudgetTracker",
     "dependencies": {
       "compression": "^1.7.4",
       "express": "^4.17.1",
